@@ -1,3 +1,7 @@
+# Part of case-study #4
+# Developers: Khramchikhina A., Peshkov Y., Sanzhanova A., Yurshenaite A.
+#
+
 AGE = 'Введите Ваш возраст: '
 FORBIDDEN = 'Продажа алкогольных напитков производится только по достижении совершеннолетия!'
 TYPE_1 = 'Введите вид пива: '
@@ -27,3 +31,4 @@ FROM_YOU = 'С Вас'
 RUBLE_1 = 'рубля'
 RUBLE_2 = 'рубль'
 RUBLE_3 = 'рублей'
+
